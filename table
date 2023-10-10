@@ -1,0 +1,12 @@
+Algorithme exercice 32
+Variables
+Tableau T(10): entiera
+i: entier
+Début
+Pour i <-- 0 à 9 faire
+T (i) <- 0
+fin Pour
+Pour i <-- 0 à 9 faire
+Ecrire (T(i))
+fin Pour
+Fin
